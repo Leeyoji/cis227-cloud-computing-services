@@ -9,10 +9,10 @@
 	<p><strong>Name:</strong> Leo Jay Eulatriz</p>
 	<p><strong>Age:</strong></h4> 21</p>
 	<p><strong>Course:</strong> Bachelor of Science in Information Systems</p>
-  <p><strong>Year:</strong> Third Year</p>
-  <p><strong>School:</strong> West Visayas State University</p>
-  <p><strong>Hobbies:</strong> Reading, Playing Mobile Games</p>
-  <p><strong>Address:</strong> Oton, ILoilo</p>
+        <p><strong>Year:</strong> Third Year</p>
+        <p><strong>School:</strong> West Visayas State University</p>
+        <p><strong>Hobbies:</strong> Reading, Playing Mobile Games</p>
+        <p><strong>Address:</strong> Oton, ILoilo</p>
 	<p><strong>Motto:</strong> Time is gold</p>
 </p>
 
